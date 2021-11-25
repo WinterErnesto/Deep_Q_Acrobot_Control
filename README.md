@@ -1,1 +1,1 @@
-# Deep_Q_Acrobot_Control
+# Deep_Q-Learning_Reinforcement_Learning_Acrobot_Control
